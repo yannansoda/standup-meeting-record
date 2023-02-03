@@ -1,0 +1,63 @@
+WeekCount,Date,Weekday,Task1,Manuscript1,TaskType1,PlannedTime1 (h),AccomplishState1 (%),SpentTime1 (h),WordCount1,ParagraphCount,Task2,Manuscript2,TaskType2,PlannedTime2 (h),AccomplishState2 (%),SpentTime2 (h),WordCount2,ParagraphCount2,TotalWordCount,TotalParagraphCount,ExtraEvent,ExtraTime (h),ProductivityRating (1-5),GeneralOverview
+1,2023-1-1,Sunday,"Exp 2 Result figures
+Exp 2.1, Exp 2.2, between Exp comparison",M1,DataAnalysis / Plotting,3,100,6,0,0,"General revising
+Clean up tiny comments, read through whole text double checking content accuracy
+Get ready for SW & LG fully revising",M1,Revising,2,0,0,0,0,0,0,,,4,"Three in the seven newly collected online data's performance were well enough for further analysis. 
+Got three more data, prepared the codes for Exp 2.1 & 2.2 comparison.
+Need one more data tomorrow for finalizing the analysis. Plot the final results and revise the result parts accordingly tomorrow.
+Task 2 shift to tomorrow after finishing above tasks."
+1,2023-1-2,Monday,"Exp 2
+One more data --> final result figures
+Participant age & gender",M1,DataAnalysis / Plotting,2.5,80,2,0,0,"Exp2 result revising
+General revising",M1,Revising,3,10,1,0,0,0,0,Visit Ambros & Susi,7,4,"Results all ready, need to combin the figures & sigs. Worked on the wrong figure, spent time to rework on the recovery the wrong one...
+Have a meeting to go, cannot work enough hours, but the productivity in the working hours was high. "
+1,2023-1-3,Tuesday,"Finalize the result figure
+Exp2 result revising
+General revising",M1,Revising,4,20,1.5,0,0,,,,,,,,,0,0,,,0.5,"Too tired to work properly, slept several hours in the day time"
+1,2023-1-4,Wednesday,"Finalize the result figure
+Exp2 result revising
+General revising",M1,Revising,4,80,5.8,120,1.5,,,,,,,,,120,1.5,,,4.2,"Spent longer time on general revision than expected
+Several additional tiny analysis required according to remaining comments, some involved matlab coding"
+1,2023-1-5,Thursday,General revising on remaining comments and method accuracy,M1,Revising,3,30,4,0,0,Result checking,M3,Revising,2,0,0,0,0,0,0,,,3.8,"More unexpected working load in tiny comments
+--> split and switch to sub task, prioritize the M3 task"
+1,2023-1-6,Friday,Result checking,M3,Revising,3,20,1.5,0,0,"Comment revising
+method accuracy checking",M1,Revising,2,100,1.5,47,0.5,47,0.5,"Weekly summary
+Making 2023 Calendar",1.5,3,"M1 general revision finished, quicker than expected"
+2,2023-1-9,Monday,Evergreen note,M3,Literature,1.2,100,1,0,0,Result & Discussion,M3,Writing,3,0,0,0,0,0,0,Scrum & lab meeting,2,1,"couldn't find good work state at all, spent time on sorting remaining tasks and make monthly plan, prepare basis for a better work state in the rest of the week"
+2,2023-1-10,Tuesday,"Result
+Checking analysis, add result plots",M3,DataAnalysis / Plotting,4,80,8,461,2.5,Evergreen note,M3,Literature,3,0,0,0,0,461,2.5,,,4.8,"Redo all the analysis for the result, fully get into the working state of M3. Current result part well finished, decide to add additional between Exps analysis in the result part (not in previous skeleton), do it tomorrow. Didn't got time for revising plots, use current version first
+It seems like switching between Ms indeed took much time and effort, after a long break, all in a sudden, becames able to work on M3, with even clearer idea than eariler"
+2,2023-1-11,Wednesday,Between Exps comparison,M3,DataAnalysis / Plotting,3,100,2,394,2,"Evergreen note
+general structure
+Sensorimotor integration 2 papers",M3,Literature,3,0,0,0,0,394,2,"Research proposal for Ying
+Meeting with Jan & Scrum meeting",2.5,3.5,"Very productive on task 1, but didn't manage to start task 2"
+2,2023-1-12,Thursday,Discussion,M3,Writing,4,5,0.5,0,0,"Evergreen note
+general structure
+Sensorimotor integration 2 papers",M3,Literature,3,10,0.5,0,0,0,0,,,0.5,
+2,2023-1-13,Friday,"Evergreen note
+Sensorimotor integration",M3,Literature,3,20,1,78,0,Text rephrasing with ChatGPT,M2,Revising,2,0,0,0,0,78,0,,,0.5,
+3,2023-1-16,Monday,"Check all comments
+add summary & reference
+Grammarly",M2,Revising,3,50,2.5,72,0.5,"Grammaly
+All parts other than discussion
+Email LG for revision",M1,Revising,1,100,2.5,0,0,72,0.5,"Scrum & lab meeting
+Meeting with Jan",2,4.3,
+3,2023-1-17,Tuesday,"Check all comments
+add summary & reference
+Grammarly",M2,Revising,3,20,2,0,0,,,,,,,,0,0,0,,,0.5,
+3,2023-1-18,Wednesday,Discussion,M2,Revising,2,40,6,0,0,Introduction,M2,Revising,3,0,0,0,0,0,0,Scrum meeting,0.5,4.2,
+3,2023-1-19,Thursday,Discussion,M2,Revising,4,0,0,0,0,Discussion Part 1/4,M3,Writing,2,0,0,0,0,0,0,,,0,"1st day in period, couldn't work"
+3,2023-1-20,Friday,"Discussion
+General bias additional paragraph",M2,Writing,1,100,1,211,1,Discussion Part 1/8,M3,Writing,0.5,100,0.3,61,0.5,272,1.5,,,4.5,Prepare for the new year
+4,2023-1-23,Monday,"Discussion
+Solving remaining comments",M2,Revising,1.5,90,1.5,0,0,Obsidian Note * 2,M3,Literature,2,0,0,0,0,0,0,"Scrum, Lab meeting
+FT Ploting for YL",4,4,"Still remain big comments which may need to work together with intro & cite new papers (demand high working load ), leave them as separate task in the next days
+Worked on YL's FT plotting, didn't get enough time for task 2
+Got Lukazs' email, a whole round of revision, check his comments in the shared documemt"
+4,2023-1-24,Tuesday,Checking Lukasz's comments,M1,Revising,1,100,0.8,0,0,,,,,,,,,0,0,Revising FT Ploting for YL,1,4.8,All simple comments were solved & colsed. Work on the large ones in new task
+4,2023-1-25,Wednesday,Updating plots & captions according to LG's comments,M1,Revising,2,90,2,0,0,,,,,,,,,0,0,"transform shared google doc, email & messaging LG & SW",0.7,4.8,"Find out one more figure to revise after finishing, so not as 100%"
+4,2023-1-26,Thursday,Skeleton outline for full paper review meeting with SW,M2,Revising,1,0,0,0,0,"Obsidian Note Stefanie Bayesian modelling, thinking of M3 outline ",M3,Literature,2,0,0,0,0,0,0,,,0,"Unexpected emergency, didn't work"
+5,2023-2-1,Wednesday,Revision for Strongway's comments,M1,Revising,5,100,2.5,20,0,Skeleton outline for full paper review meeting with SW,M2,Revising,2,100,0.5,104,0,124,0,"Tasks organization
+GSN Prolongation
+CV revision for YL",3.5,4.5,"Not very productive in the morning, much better in the afternoon and evenning"
+5,2023-2-2,Thursday,Discussion plot & caption,M1,Revising,1,100,1.5,15,0,"Obsidian Note similar study + Stefanie Bayesian modelling, thinking of M3 outline ",M3,Literature,4,,,,,,,,,,
