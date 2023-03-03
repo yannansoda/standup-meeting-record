@@ -1,4 +1,4 @@
-WeekCount,Date,Weekday,Task1,Manuscript1,TaskType1,PlannedTime1 (h),AccomplishState1 (%),SpentTime1 (h),WordCount,ParagraphCount,Task2,Manuscript2,TaskType2,PlannedTime2 (h),AccomplishState2 (%),SpentTime2 (h),WordCount2,ParagraphCount2,TotalWordCount,TotalParagraphCount,ExtraEvent,ExtraTime (h),ProductivityRating (1-5),GeneralOverview
+WeekCount,Date,Weekday,Task1,Manuscript1,TaskType1,PlannedTime1 (h),AccomplishState1 (%),SpentTime1 (h),WordCount1,ParagraphCount,Task2,Manuscript2,TaskType2,PlannedTime2 (h),AccomplishState2 (%),SpentTime2 (h),WordCount2,ParagraphCount2,TotalWordCount,TotalParagraphCount,ExtraEvent,ExtraTime (h),ProductivityRating (1-5),GeneralOverview
 1,2023-1-1,Sunday,"Exp 2 Result figures
 Exp 2.1, Exp 2.2, between Exp comparison",M1,DataAnalysis / Plotting,3,100,6,0,0,"General revising
 Clean up tiny comments, read through whole text double checking content accuracy
