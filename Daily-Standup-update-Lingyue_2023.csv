@@ -1,4 +1,4 @@
-WeekCount,Date,Weekday,Task1,Manuscript1,TaskType1,PlannedTime1 (h),AccomplishState1 (%),SpentTime1 (h),WordCount1,ParagraphCount,Task2,Manuscript2,TaskType2,PlannedTime2 (h),AccomplishState2 (%),SpentTime2 (h),WordCount2,ParagraphCount2,TotalWordCount,TotalParagraphCount,ExtraEvent,ExtraTime (h),ProductivityRating (1-5),GeneralOverview
+WeekCount,Date,Weekday,Task1,Manuscript,TaskType1,PlannedTime1 (h),AccomplishState1 (%),SpentTime1 (h),WordCount,ParagraphCount,Task2,Manuscript,TaskType2,PlannedTime2 (h),AccomplishState2 (%),SpentTime2 (h),WordCount2,ParagraphCount2,TotalWordCount,TotalParagraphCount,ExtraEvent,ExtraTime (h),ProductivityRating (1-5),GeneralOverview
 1,2023-1-1,Sunday,"Exp 2 Result figures
 Exp 2.1, Exp 2.2, between Exp comparison",M1,DataAnalysis / Plotting,3,100,6,0,0,"General revising
 Clean up tiny comments, read through whole text double checking content accuracy
@@ -60,4 +60,55 @@ Got Lukazs' email, a whole round of revision, check his comments in the shared d
 5,2023-2-1,Wednesday,Revision for Strongway's comments,M1,Revising,5,100,2.5,20,0,Skeleton outline for full paper review meeting with SW,M2,Revising,2,100,0.5,104,0,124,0,"Tasks organization
 GSN Prolongation
 CV revision for YL",3.5,4.5,"Not very productive in the morning, much better in the afternoon and evenning"
-5,2023-2-2,Thursday,Discussion plot & caption,M1,Revising,1,100,1.5,15,0,"Obsidian Note similar study + Stefanie Bayesian modelling, thinking of M3 outline ",M3,Literature,4,,,,,,,,,,
+5,2023-2-2,Thursday,Discussion plot & caption,M1,Revising,1,100,1.5,15,0,"Obsidian Note similar study + Stefanie Bayesian modelling, thinking of M3 outline ",M3,Literature,4,0,0,0,0,15,0,,,,Got a very heavy headache and couldn't work in the afternoon and evenning
+5,2023-2-3,Friday,"Obsidian Note similar study + Stefanie Bayesian modelling, thinking of M3 outline ",M3,Literature,4,70,2,0,0,"Delet Exp2.2
+Revise method & result accordingly",M1,Revising,2,100,1,0,0,0,0,"Thesis discussion with Strongway,
+preparation & discussion
+Monthly standup meeting summary",4,4.2,"Great monthly summary, fully motivated for the new month
+"
+5,2023-2-5,Sunday,Revise all method plots as discussed,M1,Revising,3,100,2,127,1,,,,,,,,,127,1,,,4.8,
+6,2023-2-6,Monday,Revise all result plots as discussed,M1,Revising,2,100,2.5,0,0,"Revise all captions for the revised plots (method & result)
+Revise results text for Exp2",M1,Revising,2,100,1.1,542,3,542,3,"Scrum and lab meeting
+Presentation rehearsal for YL",1.5,4,
+6,2023-2-7,Tuesday,"Result ANCOVA
+data analysis & text",M3,DataAnalysis / Plotting,3,70,1.2,0,0,Genernal introduction outline,TIntro,Writing,1,100,1.6,162,0,162,0,LMU Abschlussstipendium report,3.5,4.8,"Unexpected heavy headache in the morning, took long rest before can start to work
+Extra: Longer time on grant report than expect
+Task 2: For Thesis Intro, found compelet storyline and table of content document, work on the basis of them directly
+Task 1: finished data analysis and new plot, haven't write into text yet"
+6,2023-2-8,Wednesday,"Result ANOCOVA
+insert plots & interpretation",M3,Writing,1,20,1,0,0,Time perception methodology P1,TIntro,Writing,3,0,0,0,0,0,0,"LMU Abschlussstipendium report Strongway‘s signature & submit
+Scrum meeting",1,2,"Went to office for signature and sumbission
+Spent some time revising the new result plot
+chatting in office, delightful but harder to get into writing mode"
+6,2023-2-9,Thursday,"Result ANOCOVA
+insert plots & interpretation",M3,Writing,1,0,0,0,0,Time perception methodology P1,TIntro,Writing,3,0,0,0,0,0,0,"GSN financial support application
+GSN external reviewer invitation",0,0,"Somehow couldn't work at all, super tired and sleepy, though of took a tiny rest, but fell asleep for almost full day
+Strange Thursday, maybe could think of go to work in office on Thurday, could at least have some slow progress"
+6,2023-2-10,Friday,Time perception methodology P1,TIntro,Writing,2,20,1,32,0,,,,,,,,,32,0,,,,"Gradually finding back the writing state, starting from short task"
+7,2023-2-13,Monday,Time perception methodology P1,TIntro,Writing,4,30,4.3,81,0.5,,,,,,,,,81,0.5,Scrum and lab meeting,1.5,3.8,"Worked a lot on draft notes & literature, the word count for formal version is not much, need to keep working tomorrow "
+7,2023-2-14,Tuesday,Time perception methodology P2,TIntro,Writing,4,40,2,120,1,,,,,,,,,120,1,GSN financial support application,,2,"Worked in office in the morning, and left for other appointment in the afternoon, didn't manage to work enough time"
+7,2023-2-15,Wednesday,"Time perception methodology 
+P2.5 P3",TIntro,Writing,3,50,2,231,2,"relationship between attention and chronostasis illusion (Strongway's ideas) 
+P1 / 2",M1,Writing,2,0,0,0,0,231,2,Scrum meeting,0.6,2.5,"Felt very productive in the moring, worked till 1pm, however, the pure counted working time was not as much as felt, and the wordcount in the end was not that much
+Group discussion on thesis writing, good suggestions from Nan (set chapter target and writing hour for everyday and every hour), Strongway shared new AI server for searching scientific papers and listed with 1~2 sentance summary, might be able to facilitate intro writing a lot (e.g., worked on one sentence content for 2 hours this Monday, might be able to solve in 10min with it, consensus.app)"
+7,2023-2-16,Thursday,Time perception methodology P3,TIntro,Writing,3.5,100,2.5,401,2,General introduction on time perception,TIntro,Literature,0,20,1.5,0,0,401,2,,,4,"Put the citations and plots in the note and come back after finishing the writing, assign each working time unit one paragraph, facilitate the writing a lot"
+7,2023-2-17,Friday,relationship between attention and chronostasis illusion (Strongway's ideas) ,M1,Literature,4,0,1.5,0,0,,,,,,,,,0,0,,,,Strongway finished the paragraph beforehand
+8,2023-2-20,Monday,Sensory & motor timing draft notes,TIntro,Literature,3,30,2,0,0,Sensory & motor timing,TIntro,Writing,2,0,0,0,0,0,0,"GSN conference financial support application
+Presentation revising for Y",5,3.5,
+8,2023-2-21,Tuesday,Sensory timing draft notes,TIntro,Literature,2,50,2,0,0,General introduction on time perception P1,TIntro,Writing,3,100,2,511,5,511,5,GSN conference financial support documents & trip booking,3,4.2,"Planned to write one paragraph for general introduction (P1), happened to finish the whole part together with an openning paragraph for the following sub-chapter
+Not workin quite efficient on the sensory timing part, didn't write as planned"
+8,2023-2-22,Wednesday,"Draft notes
+sensory & motor timing",TIntro,Literature,4,20,1,0,0,Sensory timing,TIntro,Writing,1,0,0,0,0,0,0,"Scrum
+GSN travel funding
+GSN scholarship application",6,,"Got new information on GSN graduation and scholarship
+Discussed new graduating schedule with Strongway
+Work on the moti"
+8,2023-2-23,Thursday,Sensorimotor review paper reading,TIntro,Literature,2,0,0,0,0,TeaP post general structure,M2,Presentation,1,0,0,0,0,0,0,"GSN travel funding & scholarship
+TeaP trip booking",1.5,0,"Didn't go to office due to Sbahn problem
+somehow got super tired with all extra tasks, didn't really work on tasks"
+8,2023-2-24,Friday,TeaP poster P1,M2,Presentation,1,2,0,0,0,,,,,,,,,0,0,,,2,
+9,2023-2-27,Monday,TeaP poster P1,M2,Presentation,0,0,0,0,0,Reading Strongway's revision & comments,M1,Revising,1,50,1,0,0,0,0,"Scrum, lab meeting
+Conference preparation",3.5,1,
+9,2023-2-28,Tuesday,TeaP poster,M2,Presentation,4,30,2,141,0,Reading Strongway's revision & comments,M1,Revising,0,60,3,0,0,141,0,,,,
+9,2023-3-1,Wednesday,TeaP poster,M2,Presentation,6,40,2,0,0,,,,,,,,,,,,,1,happened to spill water on laptop... couldn't work...
+9,2023-3-2,Thursday,TeaP poster,M2,Presentation,4,,,,,,,,,,,,,,,,,,
