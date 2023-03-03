@@ -322,6 +322,7 @@ if show_fig12:
                             color='olive', linestyle='--', label='Task1 planned', zorder=2)
         dat_task_planned.groupby('Date')['PlannedTime/h'].sum().reset_index()['PlannedTime/h'].plot(kind="line", ax=ax, rot=90,
                             color='black', linestyle='--', label='Tasks total planned', zorder=3)
+        plt.legend()
         plt.ylabel('Working Time/h')
         st.pyplot(fig12)
 
